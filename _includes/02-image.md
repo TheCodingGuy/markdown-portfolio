@@ -1,0 +1,1 @@
+![Image of Yaktocat with a jetpack](https://octodex.github.com/images/jetpacktocat.png)
