@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Coder :octocat:
+* Student :mortar_board:
+* Favorite games :video_game:
+  * Destiny 2
+  * War Thunder
